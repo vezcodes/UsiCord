@@ -1,1 +1,3 @@
-# UsiCord
+#UsiCodes Theme!
+
+###Available at betterdiscord
